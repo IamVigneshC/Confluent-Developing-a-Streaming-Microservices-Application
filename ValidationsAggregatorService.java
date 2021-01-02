@@ -1,5 +1,4 @@
 package io.confluent.examples.streams.microservices;
-
 import static io.confluent.examples.streams.avro.microservices.Order.newBuilder;
 import static io.confluent.examples.streams.avro.microservices.OrderState.VALIDATED;
 import static io.confluent.examples.streams.avro.microservices.OrderValidationResult.FAIL;
