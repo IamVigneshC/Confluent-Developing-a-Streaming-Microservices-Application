@@ -17,7 +17,7 @@ https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-stre
 - Create a state store for the Inventory Service
 - Create one persistent query that enriches the orders stream with customer information using a stream-table join
 
-Check out the steps
+Check out the steps here..
 
 https://iamvigneshc.medium.com/confluent-developing-a-streaming-microservices-application-494680ce5e6
 
